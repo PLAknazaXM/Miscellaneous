@@ -83,7 +83,7 @@ Action: ''')
                 else:
                     print('Trade, mortgage, whatever you must do!  Then come back!')
                     continue
-        Money = Money - cost
+            Money = Money - cost
         space()
         print('Remaining balance: $', Money)
 
